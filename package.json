@@ -8,8 +8,8 @@
   "dependencies": {
     "express": "3.0.4",
     "ejs": "*",
-    "stylus": "*"
-    "consolidate": "*"
+    "stylus": "*",
+    "consolidate": "*",
     "swig": "*"
   }
 }
